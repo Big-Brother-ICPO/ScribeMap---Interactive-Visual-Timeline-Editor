@@ -1,1 +1,4 @@
 1. As of right now, text boxes cannot be edited or deleted after creation.
+2. There is also in this version an issue in the documentation page in which the bullt points 
+and hyphens broke due to the encoding format, which has been fixed, I just plan for that to roll
+out with the fix for bug number 1.
