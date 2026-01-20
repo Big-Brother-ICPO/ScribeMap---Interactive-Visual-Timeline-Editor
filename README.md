@@ -2,6 +2,11 @@
 
 ScribeMap is a lightweight desktop app for building branching timelines and narrative maps with an intuitive node-based canvas.
 
+## Note
+
+When installing, windows will warn that this file is "potentially dangerous" due to the fact that it is currently unsigned. 
+The app is safe, just Windows doesn't recognize it as such.
+
 ## Download & Install (Windows)
 
 1. Run the **ScribeMap Setup** installer.
