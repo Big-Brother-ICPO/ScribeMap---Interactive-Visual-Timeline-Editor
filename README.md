@@ -10,7 +10,7 @@ The app is safe, just Windows doesn't recognize it as such.
 ## Download & Install (Windows)
 
 1. Run the **ScribeMap Setup** installer.
-2. Follow the prompts.
+2. There is no step two lol the setup file automatically chooses install location (see below)
 
 ### Install Location
 
