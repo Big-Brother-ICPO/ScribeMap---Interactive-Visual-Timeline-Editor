@@ -20,11 +20,13 @@ By default, the installer installs ScribeMap to:
 
 This is the normal per-user install location on Windows.
 
-If you’d like ScribeMap installed somewhere else, choose a different folder during the installer steps when it asks for the destination.
+If you’d like ScribeMap installed somewhere else, you'll just have to cut and paste the folder from its default location to another directory.
 
 ### Desktop Shortcut
 
-The installer will automatically create a **Desktop shortcut** for ScribeMap after installation.
+The installer will automatically create a **Desktop shortcut** for ScribeMap after installation, so you don't necessarily need to move the
+folder from its default install location unless you want to keep it somewhere else (somewhere else that takes less effort to reach if you
+end up using its install folder for storing your .tmln project files)
 
 ## Using ScribeMap (Quick Start)
 
