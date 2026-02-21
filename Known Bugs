@@ -1,4 +1,2 @@
-1. As of right now, text boxes cannot be edited or deleted after creation.
-2. There is also in this version an issue in the documentation page in which the bullt points 
-and hyphens broke due to the encoding format, which has been fixed, I just plan for that to roll
-out with the fix for bug number 1.
+1. Auto-save does not currently autosave anything lol Still working on that one, so just remember to save your progress regularly.
+2. Recent Projects on Home page still occasionally opens a blank canvas. In the meantime, Import Project will be most reliable.
